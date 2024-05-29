@@ -48,8 +48,8 @@ Try resolving this by:
 
 == Changelog ==
 
-= 2024-03-04 - version 1.0.7 =
-* [Update] - Fix plugin images.
+= 2024-05-29 - version 1.0.7 =
+* [Add] - Card gateway plugin released.
 
 [See changelog for all versions](https://raw.githubusercontent.com/dmbpay/woocommerce-dmbpay-card-gateway-plugin/main/changelog.txt).
 

@@ -3,7 +3,7 @@
  * Plugin Name:       DMBPay Card Gateway
  * Plugin URI:        https://github.com/dmbpay/woocommerce-dmbpay-card-gateway-plugin
  * Description:       Accept card payments using DMBPay's Payment Gateway.
- * Version:           1.0.7
+ * Version:           1.0.0
  * Requires at least: 6.1.1
  * Requires PHP:      7.2
  * Author:            DMBPay
