@@ -1,0 +1,4 @@
+*** DMBPay Card Gateway Changelog ***
+
+2024-05-29 - version 1.0.0
+* [Add] - Card gateway plugin released.
